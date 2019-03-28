@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "description": "web",
+      "x": 0,
+      "y": 1000
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Web_design",
+      "description": "web dev",
+      "x": 100,
+      "y": 1100
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Web_development",
+      "description": "web design",
+      "x": -100,
+      "y": 1100
+    },
+    {
       "url": "https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536",
       "description": "Must read to enter functional programming",
-      "x": 0,
+      "x": 200,
       "y": 2000
     },
     {
-      "url": "https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML/Getting_started",
-      "description": "Must read to enter web programming",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+      "description": "HTML",
       "x": 0,
-      "y": 1000
+      "y": 1200
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics",
+      "description": "CSS",
+      "x": 0,
+      "y": 1250
     }
   ],
   "profile": {
