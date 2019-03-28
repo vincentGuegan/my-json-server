@@ -20,7 +20,7 @@
     },
     {
       "url": "https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536",
-      "description": "Must read to enter functional programming",
+      "description": "must read to enter functional programming",
       "x": 200,
       "y": 2000
     },
@@ -35,6 +35,12 @@
       "description": "CSS",
       "x": 0,
       "y": 1250
+    },
+    {
+      "url": "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62",
+      "description": "a good way to use margins and paddings",
+      "x": -50,
+      "y": 1500
     }
   ],
   "profile": {
