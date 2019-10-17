@@ -52,6 +52,78 @@
         }
       ],
       "lookingForAJob": true
+    },
+    {
+      "name": "Youssef Sabouni",
+      "icon": "https://avatars2.githubusercontent.com/u/50298125?s=460&v=4",
+      "jobs": [
+        {
+          "company": "HSK Digital",
+          "description": "HSK Digital est une agence à fort potentiel technologique appartenant au groupe HSK Partners. Elle contribue à la réussite de projets à haute valeur ajoutée dans le développement spécifique. Elle édite des solutions SaaS, tel l’outil de personnalisation en ligne multicanal «Predesire». Elle accompagne ses clients dans la mise en œuvre de grands projets on-line.",
+          "address": "6 Rue du 11 Novembre 1918, 02270 Crécy-sur-Serre"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Bryan Nuninger",
+      "icon": "https://avatars3.githubusercontent.com/u/49898684?s=460&v=4",
+      "jobs": [
+        {
+          "company": "Clemessy (Groupe Eiffage)",
+          "description": "La société est spécialisée dans le domaine de la conception, réalisation, maintenance de logiciels et interfaces pour les entreprises.",
+          "address": "18 Rue de Thann, 68200 Mulhouse"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Celik Furkan",
+      "icon": "https://ca.slack-edge.com/T6SG2QGG2-UJ518G1SN-3d5313a5c70d-512",
+      "jobs": [
+        {
+          "company": "Natixis Wealth Management",
+          "description": "Natixis Wealth Management Luxembourg se positionne comme un établissement de premier plan capable de fournir aux grands clients privés, aux entrepreneurs et à leur famille, les meilleures solutions pour structurer à l’international leur patrimoine et gérer leurs actifs.",
+          "address": "51 Avenue John F. Kennedy, 1855 Luxembourg"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Stéphane Thomin",
+      "icon": "https://raw.githubusercontent.com/RemyTrohel/WildersBook/master/IMG/stephaneThomin-350x350.jpg",
+      "jobs": [
+        {
+          "company": "Retrokube",
+          "description": "Agence de communication globale située à Reims, Retrokube réalise tous vos besoins en graphisme, web, applications mobiles et expériences VR",
+          "address": "46 Rue de Talleyrand, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Risacher Julien",
+      "icon": "https://image.noelshack.com/fichiers/2019/42/4/1571322295-julienrisacher-1.jpg",
+      "jobs": [
+        {
+          "company": "CGI (Conseillers en Gestion et Informatique)",
+          "description": "Société spécialisée dans les services-conseils stratégiques en management et en TI, développement et gestion d'applications, service de transformation numérique ",
+          "address": "6 rue Eugénie Brazier, 67000 Illkirch-Graffenstaden"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Léa Goarant Rocher",
+      "icon": "https://image.noelshack.com/fichiers/2019/42/4/1571325688-19748692-1726553394025811-2618130537751462785-n-copie-2.jpg",
+      "jobs": [
+        {
+          "company": "BetaSeries",
+          "description": "BetaSeries est une application iPhone et Android permettant de gérer tout son planning de séries. Indiquez les séries que vous regardez et BetaSeries vous prévient des prochains épisodes, vous conseille de nouvelles séries à regarder mais également des films, le tout entouré de vos amis. L’application est gratuite et sans publicités.",
+          "address": "6 rue de Saint-Brice, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
