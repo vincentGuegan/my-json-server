@@ -35,6 +35,23 @@
         }
       ],
       "lookingForAJob": false
+    },
+    {
+      "name": "Robin Guerre",
+      "icon": "https://media.licdn.com/dms/image/C4E03AQEsCZJ5nvNneg/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=Kz_aLpjMTxYep853n0FBpcG0NauHYr_uHXxMWFd1j84",
+      "jobs": [
+        {
+          "company": "Le Campus de Reims",
+          "description": "Au coeur de <a href=\"https://quartierlibre.co/\">Quartier Libre</a>",
+          "address": "6 rue de Saint-Brice, 51100 Reims"
+        },
+        {
+          "company": "Retrokube",
+          "description": "Au <a href=\"http://www.quarante-six.com/\">Quarante-Six</a>",
+          "address": "46 rue de Talleyrand, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": true
     }
   ],
   "profile": {
