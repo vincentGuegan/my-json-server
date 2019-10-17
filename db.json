@@ -25,6 +25,18 @@
       "lookingForAJob": false
     },
     {
+      "name": "Sébastien  Dupuis",
+      "icon": "https://zupimages.net/up/19/42/j9u2.jpg",
+      "jobs": [
+        {
+          "company": "Keenetnoa",
+          "description": "Un site internet marchand proposant des produits totalement vegan, sous forme de boutique ou de boxes surprise. Fonctionnant par abonnement.",
+          "address": "30 Rue Cérès, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Youssef Sabouni",
       "icon": "https://avatars2.githubusercontent.com/u/50298125?s=460&v=4",
       "jobs": [
