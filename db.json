@@ -71,21 +71,22 @@
         }
       ],
       "lookingForAJob": false
-    },
-    {
-      "name": "Stéphane Thomin",
-      "icon": "https://raw.githubusercontent.com/RemyTrohel/WildersBook/master/IMG/stephaneThomin-350x350.jpg",
-      "jobs": [
-        {
-          "company": "Retrokube",
-          "description": "Agence de communication globale située à Reims, Retrokube réalise tous vos besoins en graphisme, web, applications mobiles et expériences VR",
-          "address": "46 Rue de Talleyrand, 51100 Reims"
-        }
-      ],
-      "lookingForAJob": false
     }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  {
+      "name": "Risacher Julien",
+      "icon": "https://image.noelshack.com/fichiers/2019/42/4/1571322295-julienrisacher-1.jpg",
+      "jobs": [
+        {
+          "company": "CGI (conseillers en gestion et informatique)",
+          "description": "Société spécialisée dans les services-conseils stratégiques en management et en TI, développement et gestion d'applications, service de transformation numérique ",
+          "address": "6 rue Eugénie Brazier, 67000 Illkirch-Graffenstaden"
+        }
+      ],
+      "lookingForAJob": false
+    }
+  ]
 }
