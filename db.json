@@ -59,6 +59,18 @@
         }
       ],
       "lookingForAJob": false
+    },
+    {
+      "name": "Celik Furkan",
+      "icon": "https://ca.slack-edge.com/T6SG2QGG2-UJ518G1SN-3d5313a5c70d-512",
+      "jobs": [
+        {
+          "company": "Natixis Wealth Management",
+          "description": "Natixis Wealth Management Luxembourg se positionne comme un établissement de premier plan capable de fournir aux grands clients privés, aux entrepreneurs et à leur famille, les meilleures solutions pour structurer à l’international leur patrimoine et gérer leurs actifs.",
+          "address": "51 Avenue John F. Kennedy, 1855 Luxembourg"
+        }
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
