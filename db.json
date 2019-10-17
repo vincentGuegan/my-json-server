@@ -5,9 +5,11 @@
       "icon": "https://pbs.twimg.com/profile_images/1083713943938453505/CZG3c8mK_400x400.jpg",
       "jobs": [
         {
-          "address": "6 rue de Saint-Brice, 51100 Reims, France"
+          "description": "Le <a href=\"https://www.wildcodeschool.com/fr-FR/campus/reims\">Campus de Reims</a>, au coeur de <a href=\"http://www.quartierlibre-reims.com/le-bloc\">Quartier Libre</a>"
+          "address": "6 rue de Saint-Brice, 51100 Reims"
         }
-      ]
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
