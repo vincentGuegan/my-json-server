@@ -71,6 +71,18 @@
         }
       ],
       "lookingForAJob": false
+    },
+    {
+      "name": "Stéphane Thomin",
+      "icon": "https://raw.githubusercontent.com/RemyTrohel/WildersBook/master/IMG/stephaneThomin-350x350.jpg",
+      "jobs": [
+        {
+          "company": "Retrokube",
+          "description": "Agence de communication globale située à Reims, Retrokube réalise tous vos besoins en graphisme, web, applications mobiles et expériences VR",
+          "address": "46 Rue de Talleyrand, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
