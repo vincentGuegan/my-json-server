@@ -49,6 +49,30 @@
       "lookingForAJob": false
     },
     {
+      "name": "Bryan Nuninger",
+      "icon": "https://avatars3.githubusercontent.com/u/49898684?s=460&v=4",
+      "jobs": [
+        {
+          "company": "Clemessy (Groupe Eiffage)",
+          "description": "La société est spécialisée dans le domaine de la conception, réalisation, maintenance de logiciels et interfaces pour les entreprises.",
+          "address": "18 Rue de Thann, 68200 Mulhouse"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Celik Furkan",
+      "icon": "https://ca.slack-edge.com/T6SG2QGG2-UJ518G1SN-3d5313a5c70d-512",
+      "jobs": [
+        {
+          "company": "Natixis Wealth Management",
+          "description": "Natixis Wealth Management Luxembourg se positionne comme un établissement de premier plan capable de fournir aux grands clients privés, aux entrepreneurs et à leur famille, les meilleures solutions pour structurer à l’international leur patrimoine et gérer leurs actifs.",
+          "address": "51 Avenue John F. Kennedy, 1855 Luxembourg"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Stéphane Thomin",
       "icon": "https://raw.githubusercontent.com/RemyTrohel/WildersBook/master/IMG/stephaneThomin-350x350.jpg",
       "jobs": [
