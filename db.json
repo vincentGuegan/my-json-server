@@ -1,53 +1,12 @@
 {
-  "items": [
+  "wilders": [
     {
-      "url": "https://en.wikipedia.org/wiki/World_Wide_Web",
-      "title": "Web",
-      "description": "Wikipedia ?",
-      "x": 0,
-      "y": 1000
-    },
-    {
-      "url": "https://en.wikipedia.org/wiki/Web_development",
-      "title": "Web dev",
-      "description": "Wikipedia ?",
-      "x": 100,
-      "y": 1100
-    },
-    {
-      "url": "https://en.wikipedia.org/wiki/Web_design",
-      "title": "Web design",
-      "description": "Wikipedia ?",
-      "x": -100,
-      "y": 1100
-    },
-    {
-      "url": "https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536",
-      "title": "Functional programming : intro",
-      "description": "Must read pour comprendre les bases de la programmation fonctionnelle.",
-      "x": 200,
-      "y": 2000
-    },
-    {
-      "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-      "title": "Apprendre à coder en HTML",
-      "description": "Une bonne introduction au langage HTML.",
-      "x": 0,
-      "y": 1200
-    },
-    {
-      "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics",
-      "title": "Apprendre à coder en CSS",
-      "description": "Une bonne introduction au langage CSS.",
-      "x": 0,
-      "y": 1250
-    },
-    {
-      "url": "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62",
-      "title": "Apprendre à bien utiliser les marges et les paddings",
-      "description": "Une méthodologie pour définir des espaces harmonieux entre les éléments d'une page web.",
-      "x": -50,
-      "y": 1500
+      "name": "Wild Code School Reims",
+      "jobs": [
+        {
+          "address": "6 rue de Saint-Brice, 51100 Reims, France"
+        }
+      ]
     }
   ],
   "profile": {
