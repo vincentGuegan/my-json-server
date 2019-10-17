@@ -11,6 +11,18 @@
         }
       ],
       "lookingForAJob": false
+    },
+    {
+      "name": "Rémy Trohel",
+      "icon": "https://avatars0.githubusercontent.com/u/50620198",
+      "jobs": [
+        {
+          "company": "GFI Progiciels",
+          "description": "La société est spécialisée dans le domaine de la conception, réalisation, maintenance de logiciels pour collectivités locales ou territoriales, de progiciels d'aide sociale communale, intégration de services pour la gestion des collectivités territoriales, l'immobilier. La société accompagne ses clients dans leur projet de transformation du SI, d'optimisation et l’industrialisation des systèmes existants. La société propose de solution de logiciel pour le secteur public, Distribution et Transport, Santé et Social, Assurance et Finance.",
+          "address": "7 rue Pierre Hadot, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
