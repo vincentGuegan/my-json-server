@@ -97,6 +97,19 @@
       "lookingForAJob": false
     }
   ],
+  {
+      "name": "Léa Goarant Rocher",
+      "icon": "https://image.noelshack.com/fichiers/2019/42/4/1571325688-19748692-1726553394025811-2618130537751462785-n-copie-2.jpg",
+      "jobs": [
+        {
+          "company": "BetaSeries",
+          "description": "BetaSeries est une application iPhone et Android permettant de gérer tout son planning de séries. Indiquez les séries que vous regardez et BetaSeries vous prévient des prochains épisodes, vous conseille de nouvelles séries à regarder mais également des films, le tout entouré de vos amis. L’application est gratuite et sans publicités.",
+          "address": "6 rue de Saint-Brice, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
