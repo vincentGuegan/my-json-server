@@ -1,6 +1,30 @@
 {
   "wilders": [
     {
+      "name": "Wild Code School Reims",
+      "icon": "https://pbs.twimg.com/profile_images/1083713943938453505/CZG3c8mK_400x400.jpg",
+      "jobs": [
+        {
+          "company": "Le Campus de Reims",
+          "description": "Au coeur de <a href=\"https://quartierlibre.co/\">Quartier Libre</a>",
+          "address": "6 rue de Saint-Brice, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
+      "name": "Rémy Trohel",
+      "icon": "https://avatars0.githubusercontent.com/u/50620198",
+      "jobs": [
+        {
+          "company": "GFI Progiciels",
+          "description": "La société est spécialisée dans le domaine de la conception, réalisation, maintenance de logiciels pour collectivités locales ou territoriales, de progiciels d'aide sociale communale, intégration de services pour la gestion des collectivités territoriales, l'immobilier. La société accompagne ses clients dans leur projet de transformation du SI, d'optimisation et l’industrialisation des systèmes existants. La société propose de solution de logiciel pour le secteur public, Distribution et Transport, Santé et Social, Assurance et Finance.",
+          "address": "7 rue Pierre Hadot, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Sébastien  Dupuis",
       "icon": "https://zupimages.net/up/19/42/j9u2.jpg",
       "jobs": [
