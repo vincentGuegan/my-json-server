@@ -37,6 +37,18 @@
       "lookingForAJob": false
     },
     {
+      "name": "Bryan Nuninger",
+      "icon": "https://avatars3.githubusercontent.com/u/49898684?s=460&v=4",
+      "jobs": [
+        {
+          "company": "Clemessy (Groupe Eiffage)",
+          "description": "La société est spécialisée dans le domaine de la conception, réalisation, maintenance de logiciels et interfaces pour les entreprises.",
+          "address": "18 Rue de Thann, 68200 Mulhouse"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Celik Furkan",
       "icon": "https://ca.slack-edge.com/T6SG2QGG2-UJ518G1SN-3d5313a5c70d-512",
       "jobs": [
@@ -47,7 +59,7 @@
         }
       ],
       "lookingForAJob": false
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
